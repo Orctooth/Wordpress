@@ -29,6 +29,3 @@ wp-content/mu-plugins/
 wp-content/languages/
 wp-content/uploads/
 wp-content/upgrade/
-wp-content/themes/
-!wp-content/themes/twentytwenty
-!wp-content/themes/twentytwenty-child
