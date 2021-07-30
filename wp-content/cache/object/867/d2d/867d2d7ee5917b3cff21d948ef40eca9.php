@@ -1,1 +1,0 @@
-«Ða<?php exit; ?>a:1:{s:7:"content";a:5:{s:25:"_customize_changeset_uuid";a:1:{i:0;s:36:"53697ebd-f280-469e-bf1b-317c43021e1c";}s:10:"_edit_lock";a:1:{i:0;s:12:"1627568618:1";}s:10:"_edit_last";a:1:{i:0;s:1:"1";}s:17:"_wp_page_template";a:1:{i:0;s:33:"templates/template-full-width.php";}s:43:"_yoast_wpseo_estimated-reading-time-minutes";a:1:{i:0;s:1:"0";}}}

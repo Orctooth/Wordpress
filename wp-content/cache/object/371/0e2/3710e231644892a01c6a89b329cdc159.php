@@ -1,4 +1,4 @@
-ç–a<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:12;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2021-07-21 08:16:26";s:13:"post_date_gmt";s:19:"2021-07-21 08:16:26";s:12:"post_content";s:199:"<!-- wp:paragraph -->
+p®a<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:12;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2021-07-21 08:16:26";s:13:"post_date_gmt";s:19:"2021-07-21 08:16:26";s:12:"post_content";s:199:"<!-- wp:paragraph -->
 <p>If you‚Äôd like to get in touch, please use the contact form below and we‚Äôll get back to you.</p>
 <!-- /wp:paragraph -->
 
